@@ -35,7 +35,7 @@ git commit -am "$1";
 git push origin master;
 #git push heroku master;
 ```
-Save with ctrl x and the y to save - now compile the hello.sh file in our current directory
+Save with ctrl x and the y to save - now compile the commit file in our current directory
 
 ```
 sudo chmod +x ./commit
